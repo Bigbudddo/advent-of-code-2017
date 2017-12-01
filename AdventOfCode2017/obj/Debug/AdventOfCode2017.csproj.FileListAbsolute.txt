@@ -1,0 +1,9 @@
+C:\Users\Stuart Harrison\Desktop\AdventOfCode2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe.config
+C:\Users\Stuart Harrison\Desktop\AdventOfCode2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe
+C:\Users\Stuart Harrison\Desktop\AdventOfCode2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.pdb
+C:\Users\Stuart Harrison\Desktop\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csprojResolveAssemblyReference.cache
+C:\Users\Stuart Harrison\Desktop\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.exe
+C:\Users\Stuart Harrison\Desktop\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.pdb
+D:\Development\_Git\advent-of-code-2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe.config
+D:\Development\_Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.exe
+D:\Development\_Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.pdb
