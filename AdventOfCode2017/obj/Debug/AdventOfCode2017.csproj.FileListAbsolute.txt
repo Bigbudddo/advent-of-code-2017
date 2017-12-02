@@ -10,3 +10,10 @@ D:\Development\_Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2
 D:\Development\_Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csprojResolveAssemblyReference.cache
 D:\Development\_Git\advent-of-code-2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe
 D:\Development\_Git\advent-of-code-2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.pdb
+C:\Git\advent-of-code-2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe.config
+C:\Git\advent-of-code-2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe
+C:\Git\advent-of-code-2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.pdb
+C:\Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csprojResolveAssemblyReference.cache
+C:\Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csproj.CoreCompileInputs.cache
+C:\Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.exe
+C:\Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.pdb
