@@ -17,3 +17,10 @@ C:\Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csprojRes
 C:\Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csproj.CoreCompileInputs.cache
 C:\Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.exe
 C:\Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.pdb
+F:\_Git\advent-of-code-2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe.config
+F:\_Git\advent-of-code-2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe
+F:\_Git\advent-of-code-2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.pdb
+F:\_Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csprojResolveAssemblyReference.cache
+F:\_Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csproj.CoreCompileInputs.cache
+F:\_Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.exe
+F:\_Git\advent-of-code-2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.pdb

@@ -77,7 +77,7 @@ namespace AdventOfCode2017.Puzzles {
                 }
             }
 
-            Console.WriteLine(string.Format("Part 1: {0}", sum));
+            Console.WriteLine(string.Format("Part 2: {0}", sum));
         }
     }
 }
