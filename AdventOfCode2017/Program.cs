@@ -79,6 +79,8 @@ namespace AdventOfCode2017 {
                     return new Day4();
                 case 5:
                     return new Day5();
+                case 6:
+                    return new Day6();
                 default:
                     return null;
             }

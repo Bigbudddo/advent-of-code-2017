@@ -1106,7 +1106,7 @@ namespace AdventOfCode2017.Puzzles {
                 steps++;
             }
 
-            Console.WriteLine("Part 1: {0}", steps);
+            Console.WriteLine("Part 2: {0}", steps);
         }
 
         private void ResetInstructions(bool useTestCase = false) {
