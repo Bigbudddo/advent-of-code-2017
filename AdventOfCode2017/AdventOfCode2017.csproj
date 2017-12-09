@@ -50,6 +50,8 @@
     <Compile Include="Puzzles\Day4.cs" />
     <Compile Include="Puzzles\Day5.cs" />
     <Compile Include="Puzzles\Day6.cs" />
+    <Compile Include="Puzzles\Day7.cs" />
+    <Compile Include="Puzzles\Day8.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
